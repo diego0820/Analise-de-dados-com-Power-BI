@@ -1,4 +1,4 @@
-#Laboratório 2 - Dashboard de Vendas, Custo, Margem de Lucro e KPI
+# Laboratório 2 - Dashboard de Vendas, Custo, Margem de Lucro e KPI
 
 No Lab 2 vamos trabalhar com modelagem de dados, cardinalidade, recursos de limpeza de dados do Power BI e ainda teremos introdução ao DAX
 

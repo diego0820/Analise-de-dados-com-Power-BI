@@ -1,4 +1,4 @@
-#Laboratório prático 1 - Dashboard Analítico de Vendas Globais
+# Laboratório prático 1 - Dashboard Analítico de Vendas Globais
 
 O Dashboard irá responder as perguntas abaixo:
 
